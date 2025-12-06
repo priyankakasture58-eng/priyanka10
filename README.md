@@ -1,4 +1,4 @@
-# priyanka10
+# Priyanka10
 # 💫 About Me:
 I am a motivated and hardworking student with a strong interest in software development, AI, and machine learning. I am currently building my skills in Python, and Data Structures & Algorithms. I enjoy learning by creating projects and solving real-world problems. My goal is to grow as a developer and secure meaningful opportunities such as internships.
 
